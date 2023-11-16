@@ -1,0 +1,8 @@
+# gpt3.5 share_token池, 
+# todo 后期使用 AES 加密存储
+gpt35_tokens: []
+
+# palm2 api key
+
+# claude api key
+
